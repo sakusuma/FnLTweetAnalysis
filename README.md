@@ -26,9 +26,9 @@
 ## Tech Stack
 
 - Azure Cognitive Services
-- Bing Translator
+- Language Translation: Bing
 - Microsoft Power Automate
-- Power BI, 
+- Power BI
 
 
 ## Demo
